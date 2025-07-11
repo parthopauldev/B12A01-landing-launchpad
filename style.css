@@ -248,3 +248,41 @@ color: var(--text-black);
    margin-bottom: 30px;
 }
 /* section 4 end*/
+/* section 5 start*/
+.section-5{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 0px 50px 0px;
+}
+.section-5>div{
+    width: 50%;
+}
+.section-5 .content-box h2{
+font-size: 97px;
+font-weight: bold;
+color: var(--text-black);
+
+}
+.section-5 label{
+    font-size: 18px;
+    font-weight:500 ;
+    color: var(--text-black);
+
+}
+.section-5 input,textarea{
+    padding: 20px 32px;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px 0px;
+    border: none;
+
+}
+
+.section-5 button{
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+}
+
+/* section 5 end*/
